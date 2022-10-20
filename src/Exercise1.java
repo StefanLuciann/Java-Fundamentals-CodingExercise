@@ -12,6 +12,5 @@ public class Exercise1 {
         float diametru = scanner.nextFloat();
          double Perimetru = Math.PI*diametru;
         System.out.println("Perimetrul este = " + Perimetru);
-        System.out.println("Perimetrul este = " + Perimetru);
     }
 }
