@@ -13,7 +13,7 @@ public class Exercise11 {
            x = scanner.next();
           inputs.add(x);
       }while(!x.equals("Enough!"));
-      if(inputs.size()==1{
+      if(inputs.size()==1){
             System.out.println("No text provided");
         }
       String longest = inputs.get(0);
